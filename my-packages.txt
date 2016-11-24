@@ -1,4 +1,4 @@
-emmet@2.4.3
+emmet
 atom-beautify
 autocomplete-paths
 autocomplete-python
@@ -19,3 +19,4 @@ react
 term3
 tool-bar
 tool-bar-almighty
+sublime-style-column-selection
