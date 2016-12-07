@@ -20,3 +20,4 @@ term3
 tool-bar
 tool-bar-almighty
 sublime-style-column-selection
+sublime-block-comment
