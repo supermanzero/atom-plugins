@@ -22,3 +22,4 @@ tool-bar-almighty
 sublime-style-column-selection
 sublime-block-comment
 advanced-open-file
+docblocr
